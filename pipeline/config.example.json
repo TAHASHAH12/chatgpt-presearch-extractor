@@ -1,0 +1,6 @@
+{
+  "note": "Optional. Copy to config.json to enable first-party analysis for a brand.",
+  "target_domains": ["example.com", "blog.example.com"],
+  "model": "gpt-6.1-sol",
+  "default_location": "United States"
+}

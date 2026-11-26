@@ -1,0 +1,1976 @@
+{
+ "n_prompts": 8,
+ "prompts": [
+  {
+   "slug": "p01",
+   "topic": "awareness",
+   "location": "",
+   "prompt": "what is a VPN and do I need one",
+   "fan_out": [
+    "site.ftc.gov VPN what to know virtual private network",
+    "site.eff.org VPN HTTPS privacy VPN"
+   ],
+   "n_fan_out": 2,
+   "retrieved_pool": [
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn",
+     "title": "The best VPN service 2026",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/best-free-vpn",
+     "title": "The best free VPN in 2026",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/black-friday/vpn-black-friday-deals",
+     "title": "Black Friday VPN deals 2026 -  the best VPN deals already available and how to choose the right offer for you",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/vpn-black-friday-deals",
+     "title": "Black Friday VPN deals 2026: tons of big discounts are already live",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/cheapest-vpn",
+     "title": "The best cheap VPN services in 2026 - stay secure without sacrificing quality with our expert picks",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/computing/vpns/expressvpn-vs-proton-vpn-which-is-better",
+     "title": "ExpressVPN vs Proton VPN: which is better?",
+     "date": null
+    },
+    {
+     "domain": "nist.gov",
+     "url": "https://csrc.nist.gov/glossary/term/virtual_private_network",
+     "title": "virtual private network (VPN) - Glossary | CSRC",
+     "date": null
+    },
+    {
+     "domain": "microsoft.com",
+     "url": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-vpn",
+     "title": "Are VPNs Safe and Secure? | Microsoft Azure",
+     "date": null
+    },
+    {
+     "domain": "cisco.com",
+     "url": "https://www.cisco.com/site/us/en/learn/topics/security/what-is-a-virtual-private-network-vpn.html",
+     "title": "What Is a Virtual Private Network (VPN)?",
+     "date": null
+    },
+    {
+     "domain": "army.mil",
+     "url": "https://www.arcyber.army.mil/Portals/78/Documents/FactSheets/DoD-identity-protection-guide/DoD_IAPM_Guide_March_2021.pdf?ver=FDvB5WW2UB_vxPVQBJuVww%3D%3D",
+     "title": "VIRTUAL PRIVATE NETWORK (VPN)",
+     "date": null
+    },
+    {
+     "domain": "faa.gov",
+     "url": "https://www.faa.gov/sites/faa.gov/files/2022-12/2015-July-SWIM-Users-Forum-Briefing.pdf",
+     "title": "PowerPoint Presentation",
+     "date": null
+    },
+    {
+     "domain": "rtings.com",
+     "url": "https://www.rtings.com/vpn/learn/privacy",
+     "title": "What Is A VPN?: How It Works & Its Privacy Limitations - RTINGS.com",
+     "date": null
+    },
+    {
+     "domain": "ethereum.org",
+     "url": "https://ethereum.org/privacy/online/",
+     "title": "How to protect your privacy online | ⁦ethereum.org⁩",
+     "date": null
+    },
+    {
+     "domain": "eff.org",
+     "url": "https://ssd.eff.org/module/vpn.html",
+     "title": "Choosing the VPN That's Right for You | Surveillance Self-Defense",
+     "date": null
+    },
+    {
+     "domain": "wisdoj.gov",
+     "url": "https://www.wisdoj.gov/Criminal%20Investigation/VPN%20safety%20guide.pdf",
+     "title": "VPNs",
+     "date": null
+    },
+    {
+     "domain": "eff.org",
+     "url": "https://ssd.eff.org/module/what-should-i-know-about-encryption/",
+     "title": "What Should I Know About Encryption? | Surveillance Self-Defense",
+     "date": null
+    },
+    {
+     "domain": "justice.gov",
+     "url": "https://www.justice.gov/sites/default/files/usao-ndil/legacy/2015/06/11/pr0616_01a.pdf",
+     "title": "Compliant",
+     "date": null
+    },
+    {
+     "domain": "gc.ca",
+     "url": "https://www.cyber.gc.ca/en/guidance/virtual-private-networks-itsap80101",
+     "title": "Virtual private networks (ITSAP.80.101) - Canadian Centre for Cyber Security",
+     "date": null
+    },
+    {
+     "domain": "hhs.gov",
+     "url": "https://www.hhs.gov/sites/default/files/securely-teleworking-healthcare.pdf",
+     "title": "Virtual Private Networks (VPNs)",
+     "date": null
+    },
+    {
+     "domain": "gc.ca",
+     "url": "https://www.cyber.gc.ca/sites/default/files/virtual-private-networks-virtuel-itsap-80-101-en.pdf",
+     "title": "Virtual private networks",
+     "date": null
+    },
+    {
+     "domain": "cloudflare.com",
+     "url": "https://www.cloudflare.com/learning/security/what-is-a-vpn/",
+     "title": "What Is A VPN?",
+     "date": null
+    },
+    {
+     "domain": "ftc.net",
+     "url": "https://www.ftc.net/?p=16003",
+     "title": "What Is a VPN? - FTC",
+     "date": null
+    },
+    {
+     "domain": "gov.sg",
+     "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2024-011/",
+     "title": "Using Personal VPN Services Safely | Cyber Security Agency of Singapore",
+     "date": null
+    },
+    {
+     "domain": "fbi.gov",
+     "url": "https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbis-tech-tuesday-building-a-digital-defense-using-virtual-private-networks",
+     "title": "Oregon FBI's Tech Tuesday: Building a Digital Defense Using Virtual Private Networks — FBI",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Virtual_private_network",
+     "title": "Virtual private network",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/VPN_service",
+     "title": "VPN service",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=gX1nM_p0m0I",
+     "title": "WHAT IS A VPN? Non-technical explanation of how a VPN works - YouTube",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=gAHlZdnTmNA",
+     "title": "Choosing A VPN (Electronic Frontier Foundation, EFF) #snyder15 - YouTube",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Oblivious_HTTP",
+     "title": "Oblivious HTTP",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/how-does-a-vpn-work",
+     "title": "How does a VPN work?",
+     "date": null
+    },
+    {
+     "domain": "cisco.com",
+     "url": "https://www.cisco.com/site/us/en/learn/topics/security/what-is-a-virtual-private-network-vpn.html?utm_source=openai",
+     "title": null,
+     "date": null
+    },
+    {
+     "domain": "eff.org",
+     "url": "https://ssd.eff.org/module/vpn.html?utm_source=openai",
+     "title": null,
+     "date": null
+    }
+   ],
+   "retrieved_domains": [
+    "army.mil",
+    "cisco.com",
+    "cloudflare.com",
+    "eff.org",
+    "ethereum.org",
+    "faa.gov",
+    "fbi.gov",
+    "ftc.net",
+    "gc.ca",
+    "gov.sg",
+    "hhs.gov",
+    "justice.gov",
+    "microsoft.com",
+    "nist.gov",
+    "rtings.com",
+    "techradar.com",
+    "tomsguide.com",
+    "wikipedia.org",
+    "wisdoj.gov",
+    "youtube.com"
+   ],
+   "shown_domains": [
+    "cisco.com",
+    "eff.org"
+   ],
+   "invisible_domains": [
+    "army.mil",
+    "cloudflare.com",
+    "ethereum.org",
+    "faa.gov",
+    "fbi.gov",
+    "ftc.net",
+    "gc.ca",
+    "gov.sg",
+    "hhs.gov",
+    "justice.gov",
+    "microsoft.com",
+    "nist.gov",
+    "rtings.com",
+    "techradar.com",
+    "tomsguide.com",
+    "wikipedia.org",
+    "wisdoj.gov",
+    "youtube.com"
+   ],
+   "n_retrieved": 20,
+   "n_shown": 2,
+   "n_invisible": 18,
+   "invisible_pct": 90,
+   "cost": 0.032242,
+   "datetime": "2026-11-26 07:14:29 +00:00"
+  },
+  {
+   "slug": "p02",
+   "topic": "awareness",
+   "location": "",
+   "prompt": "how does a VPN protect my privacy",
+   "fan_out": [],
+   "n_fan_out": 0,
+   "retrieved_pool": [],
+   "retrieved_domains": [],
+   "shown_domains": [],
+   "invisible_domains": [],
+   "n_retrieved": 0,
+   "n_shown": 0,
+   "n_invisible": 0,
+   "invisible_pct": 0,
+   "cost": 0.01186,
+   "datetime": "2026-11-26 07:14:23 +00:00"
+  },
+  {
+   "slug": "p03",
+   "topic": "consideration",
+   "location": "",
+   "prompt": "what should I look for when choosing a VPN",
+   "fan_out": [
+    "site.eff.org choosing VPN what to look for",
+    "site.consumer.ftc.gov VPN app privacy choosing"
+   ],
+   "n_fan_out": 2,
+   "retrieved_pool": [
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn",
+     "title": "The best VPN service 2026",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/best-free-vpn",
+     "title": "The best free VPN in 2026",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/cheapest-vpn",
+     "title": "The best cheap VPN services in 2026 - stay secure without sacrificing quality with our expert picks",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/vpn-black-friday-deals",
+     "title": "Black Friday VPN deals 2026: tons of big discounts are already live",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-plus-vs-surfshark-one",
+     "title": "Proton VPN Plus vs Surfshark One: which plan is the better Black Friday deal right now?",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/computing/vpns/expressvpn-vs-proton-vpn-which-is-better",
+     "title": "ExpressVPN vs Proton VPN: which is better?",
+     "date": null
+    },
+    {
+     "domain": "ftc.gov",
+     "url": "https://www.ftc.gov/business-guidance/blog/2018/02/market-vpn-app",
+     "title": "In the market for a VPN app? | Federal Trade Commission",
+     "date": null
+    },
+    {
+     "domain": "pickmyvpn.com",
+     "url": "https://www.pickmyvpn.com/guides/how-to-choose-the-right-vpn",
+     "title": "How to Choose the Right VPN: Complete Buyer’s Guide | PickMyVPN",
+     "date": null
+    },
+    {
+     "domain": "odni.gov",
+     "url": "https://www.odni.gov/files/NCSC/documents/campaign/DoD_IAPM_Guide_March_2021.pdf?trk=public_post_comment-text",
+     "title": "IDENTITY AWARENESS, PROTECTION,",
+     "date": null
+    },
+    {
+     "domain": "eff.org",
+     "url": "https://ssd.eff.org/module/choosing-vpn-thats-right-you",
+     "title": "Choosing the VPN That's Right for You | Surveillance Self-Defense",
+     "date": null
+    },
+    {
+     "domain": "ftc.gov",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2018/02/ftc-provides-tips-using-vpn-apps",
+     "title": "FTC Provides Tips for Using VPN Apps | Federal Trade Commission",
+     "date": null
+    },
+    {
+     "domain": "internetsociety.org",
+     "url": "https://www.internetsociety.org/blog/2019/10/what-to-look-for-when-choosing-a-vpn/",
+     "title": "What to Look for When Choosing a VPN - Internet Society",
+     "date": null
+    },
+    {
+     "domain": "kaspersky.com",
+     "url": "https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-choose-the-right-vpn",
+     "title": "How to Choose the Right VPN and What to Look For",
+     "date": null
+    },
+    {
+     "domain": "com.de",
+     "url": "https://vpn.com.de/research/how-to-choose-a-vpn-evidence-checklist",
+     "title": "How to choose a VPN: an evidence-based checklist",
+     "date": null
+    },
+    {
+     "domain": "defense.gov",
+     "url": "https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/csi_selecting-hardening-remote-access-vpns-20210928.pdf",
+     "title": "NSA, CISA | Selecting and Hardening Remote Access VPN Solutions",
+     "date": null
+    },
+    {
+     "domain": "webopedia.com",
+     "url": "https://www.webopedia.com/vpn/learn/how-to-choose-a-vpn/",
+     "title": "How to Choose a VPN: 5 Checks That Matter | Webopedia",
+     "date": null
+    },
+    {
+     "domain": "fbi.gov",
+     "url": "https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbis-tech-tuesday-building-a-digital-defense-using-virtual-private-networks",
+     "title": "Oregon FBI's Tech Tuesday: Building a Digital Defense Using Virtual Private Networks — FBI",
+     "date": null
+    },
+    {
+     "domain": "norton.com",
+     "url": "https://us.norton.com/blog/vpn/how-to-choose-vpn.html",
+     "title": "Why use a VPN and how to choose one",
+     "date": null
+    },
+    {
+     "domain": "army.mil",
+     "url": "https://www.arcyber.army.mil/Portals/34/Fact%20Sheets/DOD%20Identity%20Protection%20Guide/DoD_Identity_Awareness_Protection_Management_Guide_March2019.pdf",
+     "title": "VIRTUAL PRIVATE NETWORK (VPN)",
+     "date": null
+    },
+    {
+     "domain": "rtings.com",
+     "url": "https://www.rtings.com/vpn/reviews/best/privacy",
+     "title": "The 4 Best VPNs For Privacy of 2026 - RTINGS.com",
+     "date": null
+    },
+    {
+     "domain": "privacyinternational.org",
+     "url": "https://privacyinternational.org/sites/default/files/2025-05/FREE_TO_PROTEST-EN-EDITION.pdf",
+     "title": "Protection limitations of VPNs",
+     "date": null
+    },
+    {
+     "domain": "consumerreports.org",
+     "url": "https://www.consumerreports.org/electronics/privacy/how-to-choose-a-vpn-for-digital-privacy-and-security-a1102933684/",
+     "title": "How to Choose a VPN for Digital Privacy & Security - Consumer Reports",
+     "date": null
+    },
+    {
+     "domain": "texas.gov",
+     "url": "https://dir.texas.gov/sites/default/files/2024-07/DoD_IAPM_Guide_March_2021.pdf",
+     "title": "VIRTUAL PRIVATE NETWORK (VPN)",
+     "date": null
+    }
+   ],
+   "retrieved_domains": [
+    "army.mil",
+    "com.de",
+    "consumerreports.org",
+    "defense.gov",
+    "eff.org",
+    "fbi.gov",
+    "ftc.gov",
+    "internetsociety.org",
+    "kaspersky.com",
+    "norton.com",
+    "odni.gov",
+    "pickmyvpn.com",
+    "privacyinternational.org",
+    "rtings.com",
+    "techradar.com",
+    "texas.gov",
+    "tomsguide.com",
+    "webopedia.com"
+   ],
+   "shown_domains": [
+    "eff.org",
+    "ftc.gov",
+    "kaspersky.com"
+   ],
+   "invisible_domains": [
+    "army.mil",
+    "com.de",
+    "consumerreports.org",
+    "defense.gov",
+    "fbi.gov",
+    "internetsociety.org",
+    "norton.com",
+    "odni.gov",
+    "pickmyvpn.com",
+    "privacyinternational.org",
+    "rtings.com",
+    "techradar.com",
+    "texas.gov",
+    "tomsguide.com",
+    "webopedia.com"
+   ],
+   "n_retrieved": 18,
+   "n_shown": 3,
+   "n_invisible": 15,
+   "invisible_pct": 83,
+   "cost": 0.042956,
+   "datetime": "2026-11-26 07:14:32 +00:00"
+  },
+  {
+   "slug": "p04",
+   "topic": "consideration",
+   "location": "",
+   "prompt": "is a free VPN safe to use",
+   "fan_out": [
+    "site.ftc.gov VPN app free VPN privacy",
+    "site.consumerreports.org free VPN risks"
+   ],
+   "n_fan_out": 2,
+   "retrieved_pool": [
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/best-free-vpn",
+     "title": "The best free VPN in 2026",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn",
+     "title": "The best VPN service 2026",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/cheapest-vpn",
+     "title": "The best cheap VPN services in 2026 - stay secure without sacrificing quality with our expert picks",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/apple-tv-vpn",
+     "title": "The best VPNs for Apple TV: stream Ted Lasso and Slow Horses securely with these top VPNs",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/computing/vpns/expressvpn-vs-proton-vpn-which-is-better",
+     "title": "ExpressVPN vs Proton VPN: which is better?",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/vpn-black-friday-deals",
+     "title": "Black Friday VPN deals 2026: tons of big discounts are already live",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/features/are-free-vpns-safe",
+     "title": "Are free VPNs safe? | Tom's Guide",
+     "date": null
+    },
+    {
+     "domain": "ftc.gov",
+     "url": "https://www.ftc.gov/business-guidance/blog/2018/02/market-vpn-app",
+     "title": "In the market for a VPN app? | Federal Trade Commission",
+     "date": null
+    },
+    {
+     "domain": "microsoft.com",
+     "url": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-vpn",
+     "title": "Are VPNs Safe and Secure? | Microsoft Azure",
+     "date": null
+    },
+    {
+     "domain": "bitdefender.com",
+     "url": "https://www.bitdefender.com/en-gb/blog/hotforsecurity/are-free-vpns-safe",
+     "title": "Are free VPNs really safe to use?",
+     "date": null
+    },
+    {
+     "domain": "engadget.com",
+     "url": "https://www.engadget.com/2252776/is-free-vpn-worth-using-risks-explained/",
+     "title": "Is A Free VPN Worth Using? Here's Why It Could Be Risky",
+     "date": null
+    },
+    {
+     "domain": "fbi.gov",
+     "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/evading-residential-proxy-networks-protecting-your-devices-from-becoming-a-tool-for-criminals?trk=article-ssr-frontend-pulse_little-text-block",
+     "title": "Evading Residential Proxy Networks: Protecting Your Devices from Becoming a Tool for Criminals — FBI",
+     "date": null
+    },
+    {
+     "domain": "norton.com",
+     "url": "https://us.norton.com/blog/vpn/are-free-vpns-safe",
+     "title": "Are free VPNs safe? 7 risks + how to protect your privacy",
+     "date": null
+    },
+    {
+     "domain": "brave.com",
+     "url": "https://brave.com/learn/free-vpn/",
+     "title": "Are free VPNs safe? | Brave",
+     "date": null
+    },
+    {
+     "domain": "michigan.gov",
+     "url": "https://www.michigan.gov/msp/-/media/Project/Websites/msp/iod/Virtual_Private_Networks__VPN.pdf?rev=42b002bcafe149538cc9388868d2ea5c",
+     "title": "# Cyber Security Snapshot",
+     "date": null
+    },
+    {
+     "domain": "odni.gov",
+     "url": "https://www.odni.gov/files/NCSC/documents/campaign/DoD_IAPM_Guide_March_2021.pdf?trk=public_post_comment-text",
+     "title": "IDENTITY AWARENESS, PROTECTION,",
+     "date": null
+    },
+    {
+     "domain": "norton.com",
+     "url": "https://us.norton.com/blog/vpn/are-free-vpns-safe.html",
+     "title": "Are free VPNs safe? 7 risks + how to protect your privacy",
+     "date": null
+    },
+    {
+     "domain": "army.mil",
+     "url": "https://www.arcyber.army.mil/Portals/78/Documents/FactSheets/DoD-identity-protection-guide/DoD_IAPM_Guide_March_2021.pdf?ver=FDvB5WW2UB_vxPVQBJuVww%3D%3D",
+     "title": "VIRTUAL PRIVATE NETWORK (VPN)",
+     "date": null
+    },
+    {
+     "domain": "protractor.net",
+     "url": "https://protractor.net/vpn/are-free-vpns-safe/",
+     "title": "Are Free VPNs Safe? Risks and How to Vet One | Protractor",
+     "date": null
+    },
+    {
+     "domain": "consumerreports.org",
+     "url": "https://www.consumerreports.org/electronics-computers/vpn-services/should-you-use-a-vpn-a5562069524/",
+     "title": "Should You Use a VPN? - Consumer Reports",
+     "date": null
+    },
+    {
+     "domain": "top10vpn.com",
+     "url": "https://www.top10vpn.com/research/free-vpn-investigations/",
+     "title": "Are Free VPNs Safe? Over 80% Leak & 70% Share Data",
+     "date": null
+    },
+    {
+     "domain": "govinfo.gov",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-Y1_2-5884a13c424fe9d5a52a970832b2a036/pdf/GOVPUB-Y1_2-5884a13c424fe9d5a52a970832b2a036.pdf",
+     "title": "Building a Culture of Security | A Strong Foundation: Securing Accounts and Devices | Communicating Data Securely | **Staying Safe on the Internet** | Protecting Physical Security | What To Do When Things Go Wrong",
+     "date": null
+    },
+    {
+     "domain": "ohchr.org",
+     "url": "https://searchlibrary.ohchr.org/nanna/record/32159/files/UNAMI-INSM-2022-OnlineProtection%26DigitalSecurity.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+     "title": "Online Protection and Digital Security",
+     "date": null
+    },
+    {
+     "domain": "wisdoj.gov",
+     "url": "https://www.wisdoj.gov/Criminal%20Investigation/VPN%20safety%20guide.pdf",
+     "title": "VPNs",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/VPN_service",
+     "title": "VPN service",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/news/free-vs-paid-vpn",
+     "title": "Free vs. Paid VPNs: which should you choose?",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/where-does-your-money-go-when-you-buy-a-vpn",
+     "title": "Where does your money go when you buy a VPN?",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/pro/security/popular-free-vpn-streaming-apps-bombard-business-networks-with-laundered-traffic-used-by-criminals-to-blend-into-normal-consumer-noise-heres-how-to-keep-safe",
+     "title": "Popular free VPN, streaming apps bombard business networks with 'laundered' traffic used by criminals to 'blend into normal consumer noise' - here's how to keep safe",
+     "date": null
+    },
+    {
+     "domain": "pcgamer.com",
+     "url": "https://www.pcgamer.com/software/security/a-free-chrome-vpn-with-over-100-000-installations-has-been-accused-of-snapping-unauthorised-screenshots-of-websites-and-spying-on-its-users-location-data/",
+     "title": "A free Chrome VPN with over 100,000 installations has been accused of snapping unauthorised screenshots of websites and spying on its users location data",
+     "date": null
+    },
+    {
+     "domain": "time.com",
+     "url": "https://time.com/5622139/best-vpn/",
+     "title": "Should You Use a VPN for Internet Privacy? That Depends, Experts Say",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=IBFEswi_lt8",
+     "title": "Risking Privacy for Free VPNs: Is It Worth It? - YouTube",
+     "date": null
+    },
+    {
+     "domain": "ftc.gov",
+     "url": "https://www.ftc.gov/business-guidance/blog/2018/02/market-vpn-app?utm_source=openai",
+     "title": null,
+     "date": null
+    },
+    {
+     "domain": "army.mil",
+     "url": "https://www.arcyber.army.mil/Portals/78/Documents/FactSheets/DoD-identity-protection-guide/DoD_IAPM_Guide_March_2021.pdf?ver=FDvB5WW2UB_vxPVQBJuVww%3D%3D&utm_source=openai",
+     "title": null,
+     "date": null
+    },
+    {
+     "domain": "microsoft.com",
+     "url": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-vpn?utm_source=openai",
+     "title": null,
+     "date": null
+    },
+    {
+     "domain": "fbi.gov",
+     "url": "https://www.fbi.gov/investigate/cyber/alerts/2026/evading-residential-proxy-networks-protecting-your-devices-from-becoming-a-tool-for-criminals?trk=article-ssr-frontend-pulse_little-text-block&utm_source=openai",
+     "title": null,
+     "date": null
+    },
+    {
+     "domain": "consumerreports.org",
+     "url": "https://www.consumerreports.org/electronics-computers/vpn-services/should-you-use-a-vpn-a5562069524/?utm_source=openai",
+     "title": null,
+     "date": null
+    }
+   ],
+   "retrieved_domains": [
+    "army.mil",
+    "bitdefender.com",
+    "brave.com",
+    "consumerreports.org",
+    "engadget.com",
+    "fbi.gov",
+    "ftc.gov",
+    "govinfo.gov",
+    "michigan.gov",
+    "microsoft.com",
+    "norton.com",
+    "odni.gov",
+    "ohchr.org",
+    "pcgamer.com",
+    "protractor.net",
+    "techradar.com",
+    "time.com",
+    "tomsguide.com",
+    "top10vpn.com",
+    "wikipedia.org",
+    "wisdoj.gov",
+    "youtube.com"
+   ],
+   "shown_domains": [
+    "army.mil",
+    "consumerreports.org",
+    "fbi.gov",
+    "ftc.gov",
+    "microsoft.com"
+   ],
+   "invisible_domains": [
+    "bitdefender.com",
+    "brave.com",
+    "engadget.com",
+    "govinfo.gov",
+    "michigan.gov",
+    "norton.com",
+    "odni.gov",
+    "ohchr.org",
+    "pcgamer.com",
+    "protractor.net",
+    "techradar.com",
+    "time.com",
+    "tomsguide.com",
+    "top10vpn.com",
+    "wikipedia.org",
+    "wisdoj.gov",
+    "youtube.com"
+   ],
+   "n_retrieved": 22,
+   "n_shown": 5,
+   "n_invisible": 17,
+   "invisible_pct": 77,
+   "cost": 0.030766,
+   "datetime": "2026-11-26 07:14:25 +00:00"
+  },
+  {
+   "slug": "p05",
+   "topic": "decision",
+   "location": "",
+   "prompt": "what is the best VPN in 2026",
+   "fan_out": [
+    "best VPN 2026 Wirecutter Proton NordVPN Mullvad",
+    "site.protonvpn.com pricing VPN 2026",
+    "site.mullvad.net pricing 5 euro devices",
+    "site.nordvpn.com independent audit no logs 2026"
+   ],
+   "n_fan_out": 4,
+   "retrieved_pool": [
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn",
+     "title": "The best VPN service 2026",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/cheap-vpn",
+     "title": "The best cheap VPN in 2026",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/computing/vpns/expressvpn-vs-proton-vpn-which-is-better",
+     "title": "ExpressVPN vs Proton VPN: which is better?",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/vpn-black-friday-deals",
+     "title": "Black Friday VPN deals 2026: tons of big discounts are already live",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-plus-vs-surfshark-one",
+     "title": "Proton VPN Plus vs Surfshark One: which plan is the better Black Friday deal right now?",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/vpn-services/expressvpn-undercuts-its-own-black-friday-deal-with-its-low-cost-vpn-plan-now-cheaper-and-better-value-than-nordvpn-with-secure-ai-email-aliasing-ad-tracker-and-malware-blocking-all-for-usd2-79",
+     "title": "ExpressVPN undercuts its own Black Friday deal with its low cost VPN plan now cheaper and better value than NordVPN, with secure AI, email aliasing, ad, tracker and malware blocking all for $2.79",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/best-vpn",
+     "title": "The best VPN in 2026: our top 5 picks | Tom's Guide",
+     "date": null
+    },
+    {
+     "domain": "wired.com",
+     "url": "https://www.wired.com/gallery/best-vpn/",
+     "title": "6 Best VPN Services (2026), Tested and Reviewed | WIRED",
+     "date": null
+    },
+    {
+     "domain": "top10vpn.com",
+     "url": "https://www.top10vpn.com/best-vpn/",
+     "title": "Top 10 Best VPN Services of 2026 (59 Tested Hands-On)",
+     "date": null
+    },
+    {
+     "domain": "rtings.com",
+     "url": "https://www.rtings.com/vpn/reviews/best/vpn",
+     "title": "The 5 Best VPNs of 2026 - RTINGS.com",
+     "date": null
+    },
+    {
+     "domain": "security.org",
+     "url": "https://www.security.org/vpn/best/",
+     "title": "Best VPN Services of 2026: Tested and Ranked by Experts | Security.org",
+     "date": null
+    },
+    {
+     "domain": "auditedvpn.com",
+     "url": "https://auditedvpn.com/no-logs-vpn/",
+     "title": "No-Logs VPN Audit Tracker 2026: Who Was Audited, and When",
+     "date": null
+    },
+    {
+     "domain": "vpns.to",
+     "url": "https://vpns.to/data/vpn-audit-tracker",
+     "title": "VPN Audit Tracker: Who Was Audited, When, by Whom",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn?offer=3monthsfree",
+     "title": "The best VPN service 2026 | TechRadar",
+     "date": null
+    },
+    {
+     "domain": "vpnadvisor.net",
+     "url": "https://vpnadvisor.net/research/audit-scope",
+     "title": "VPN Audit Scope Index 2026: Who Audited Each Provider and What It Does Not Prove | VPN Advisor",
+     "date": null
+    },
+    {
+     "domain": "itechguides.com",
+     "url": "https://www.itechguides.com/best-vpns-weve-tested-2026/",
+     "title": "Best VPNs We've Tested in 2026: NordVPN, Surfshark and More",
+     "date": null
+    },
+    {
+     "domain": "mullvad.net",
+     "url": "https://mullvad.net/en/pricing",
+     "title": "Pricing",
+     "date": null
+    },
+    {
+     "domain": "gizmodo.com",
+     "url": "https://gizmodo.com/best-vpn/no-log",
+     "title": "Best No-Log VPN in 2026: Top 5 VPNs That Keep No Logs",
+     "date": null
+    },
+    {
+     "domain": "av-test.org",
+     "url": "https://www.av-test.org/fileadmin/pdf/reports/AV-TEST_NordSec_VPN_Additional_Security_Feature_Evaluation_November_2024.pdf",
+     "title": "Criteria\n\nTo receive the TEST APPROVED Network Thr",
+     "date": null
+    },
+    {
+     "domain": "mplp.org",
+     "url": "https://mplp.org/sites/default/files/2025-10/mplp-fifth-friday-tech-webinar-10-31-25_0.pdf",
+     "title": "MPLP Fifth Friday Tech Webinar -",
+     "date": null
+    },
+    {
+     "domain": "av-comparatives.org",
+     "url": "https://www.av-comparatives.org/wp-content/uploads/2025/02/Security-Survey-2025.pdf",
+     "title": "IT Security Survey 2025",
+     "date": null
+    },
+    {
+     "domain": "storyblok.com",
+     "url": "https://a.storyblok.com/f/95676/x/fa2652ccbe/nord-security-esg-report-2025.pdf",
+     "title": "NORD SECURITY",
+     "date": null
+    },
+    {
+     "domain": "nordcdn.com",
+     "url": "https://sb.nordcdn.com/m/8d5f43e805d0c30/original/Comprehensive-VPN-Testing-Report-2025.pdf",
+     "title": "Comprehensive VPN Testing Report 2025",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=U4i6WueT-pk",
+     "title": "You Should Be Traveling with a VPN - YouTube",
+     "date": null
+    },
+    {
+     "domain": "av-comparatives.org",
+     "url": "https://av-comparatives.org/wp-content/uploads/2026/06/avc_phi_NordVPN_2026.pdf",
+     "title": "# Independent Tests of Cybersecurity Solutions",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=yejKWlzgR74",
+     "title": "NordVPN No-Logs Audit — Who Actually Checked, and When (2026) - YouTube",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1y54r7c/rate_the_vpn_you_use_right_now_s_a_b_c_or_f_one/",
+     "title": "Rate the VPN you use right now: S, A, B, C or F? One line why.",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPNforFreedom/comments/1wp4mrm/best_no_logs_vpns/",
+     "title": "Best No Logs VPNs",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1ui4zrl/best_vpn_in_2026_ive_tested_them_all_and_heres/",
+     "title": "Best VPN in 2026? I've tested them all and here's what real users actually recommend",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1tsudq4/what_is_the_best_allround_vpn_in_2026_heres_what/",
+     "title": "What is the best all-round VPN in 2026? Here's what Reddit actually recommends",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1u4twp1/best_vpn_in_2026_heres_what_reddit_actually/",
+     "title": "Best VPN in 2026: here's what Reddit actually agrees on",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPNforFreedom/comments/1wd90ky/vpns_worth_paying_for_in_2026/",
+     "title": "VPNs worth paying for in 2026",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPN_Question/comments/1xkc1pp/whats_reddits_honest_pick_for_a_vpn/",
+     "title": "whats reddits honest pick for a vpn?",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1wg9m2z/is_there_a_vpn_literally_everyone_agrees_on_or/",
+     "title": "Is there a VPN literally everyone agrees on, or does that not exist?",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPNAdvice_/comments/1usihaa/best_vpn_in_2026_i_compared_12_popular_vpns_so/",
+     "title": "Best VPN in 2026: I Compared 12 Popular VPNs So You Don't Have To",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1xdaal5/what_made_you_pick_your_current_vpn_and_would_you/",
+     "title": "What made you pick your current VPN, and would you pick it again today?",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1wcfo9a/best_vpn_in_2026_what_would_you_actually_recommend/",
+     "title": "Best VPN in 2026? What would you actually recommend?",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1y4oqxp/best_vpn_overall_proton_vpn_vs_nordvpn_vs/",
+     "title": "Best VPN overall? Proton VPN vs NordVPN vs Surfshark (free, streaming, Reddit, multiple devices)",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/VPN_service",
+     "title": "VPN service",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/NordVPN",
+     "title": "NordVPN",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/reviews/nordvpn-review",
+     "title": "NordVPN review",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/vpn-services/ipvanish-clears-a-third-independent-audit-reinforcing-its-no-logs-credentials-for-the-second-year-in-a-row",
+     "title": "IPVanish clears a third independent audit, reinforcing its no-logs credentials for the second year in a row",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/reviews/protonvpn-review",
+     "title": "Proton VPN review - Powerful, private, and increasingly accessible",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/vpn-privacy-security/how-to-choose-an-age-verification-vpn",
+     "title": "How to choose an age verification VPN: secure yourself while verifying your age in regions such as the UK and Australia",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Proton_VPN",
+     "title": "Proton VPN",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/List_of_cryptographic_software",
+     "title": "List of cryptographic software",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Mullvad",
+     "title": "Mullvad",
+     "date": null
+    }
+   ],
+   "retrieved_domains": [
+    "auditedvpn.com",
+    "av-comparatives.org",
+    "av-test.org",
+    "gizmodo.com",
+    "itechguides.com",
+    "mplp.org",
+    "mullvad.net",
+    "nordcdn.com",
+    "reddit.com",
+    "rtings.com",
+    "security.org",
+    "storyblok.com",
+    "techradar.com",
+    "tomsguide.com",
+    "top10vpn.com",
+    "vpnadvisor.net",
+    "vpns.to",
+    "wikipedia.org",
+    "wired.com",
+    "youtube.com"
+   ],
+   "shown_domains": [
+    "wired.com"
+   ],
+   "invisible_domains": [
+    "auditedvpn.com",
+    "av-comparatives.org",
+    "av-test.org",
+    "gizmodo.com",
+    "itechguides.com",
+    "mplp.org",
+    "mullvad.net",
+    "nordcdn.com",
+    "reddit.com",
+    "rtings.com",
+    "security.org",
+    "storyblok.com",
+    "techradar.com",
+    "tomsguide.com",
+    "top10vpn.com",
+    "vpnadvisor.net",
+    "vpns.to",
+    "wikipedia.org",
+    "youtube.com"
+   ],
+   "n_retrieved": 20,
+   "n_shown": 1,
+   "n_invisible": 19,
+   "invisible_pct": 95,
+   "cost": 0.05068,
+   "datetime": "2026-11-26 07:14:42 +00:00"
+  },
+  {
+   "slug": "p06",
+   "topic": "decision",
+   "location": "",
+   "prompt": "best VPN for streaming",
+   "fan_out": [
+    "best VPN streaming 2026 NordVPN Surfshark ExpressVPN independent testing",
+    "site.nordvpn.com pricing streaming money back 30 days",
+    "site.surfshark.com streaming unlimited devices money back"
+   ],
+   "n_fan_out": 3,
+   "retrieved_pool": [
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn",
+     "title": "The best VPN service 2026",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/computing/vpns/expressvpn-vs-proton-vpn-which-is-better",
+     "title": "ExpressVPN vs Proton VPN: which is better?",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/vpn-black-friday-deals",
+     "title": "Black Friday VPN deals 2026: tons of big discounts are already live",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/pro/this-black-friday-1tb-cloud-backup-storage-2-year-discount-deal-is-85-percent-off-making-it-just-usd3-29-per-month-and-it-also-includes-a-vpn-antivirus-secure-browser-and-5gb-esim-data-for-free",
+     "title": "This Black Friday 1TB Cloud Backup storage 2 year discount deal is 85% off making it just $3.29 per month - and it also includes a VPN, antivirus, secure browser, and 5GB eSIM data for free",
+     "date": null
+    },
+    {
+     "domain": "loudersound.com",
+     "url": "https://www.loudersound.com/features/black-friday-streaming-deals",
+     "title": "Black Friday streaming deals 2026: my pick of music, TV and movie streaming discounts - Paramount, Prime, Disney & more",
+     "date": null
+    },
+    {
+     "domain": "cyclingweekly.com",
+     "url": "https://www.cyclingweekly.com/deals/watch-cameron-mason-and-every-cyclo-cross-race-live-from-anywhere-with-nordvpns-black-friday-bargain",
+     "title": "Watch Cameron Mason and every cyclo-cross race live from anywhere you are with NordVPN's Black Friday bargain",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/best-vpn",
+     "title": "The best VPN in 2026: our top 5 picks | Tom's Guide",
+     "date": null
+    },
+    {
+     "domain": "top10vpn.com",
+     "url": "https://www.top10vpn.com/best-vpn/",
+     "title": "Top 10 Best VPN Services of 2026 (59 Tested Hands-On)",
+     "date": null
+    },
+    {
+     "domain": "security.org",
+     "url": "https://www.security.org/vpn/best/",
+     "title": "Best VPN Services of 2026: Tested and Ranked by Experts | Security.org",
+     "date": null
+    },
+    {
+     "domain": "itechguides.com",
+     "url": "https://www.itechguides.com/best-vpn-for-streaming-what-2026-tests-actually-show/",
+     "title": "Best VPN for Streaming in 2026: Test Results and TV Setup",
+     "date": null
+    },
+    {
+     "domain": "itechguides.com",
+     "url": "https://www.itechguides.com/best-vpns-in-2026-the-right-pick-for-privacy-streaming-speed-and-price/",
+     "title": "Best VPNs in 2026: Top Picks for Privacy, Streaming and Speed",
+     "date": null
+    },
+    {
+     "domain": "security.org",
+     "url": "https://www.security.org/vpn/best/streaming/",
+     "title": "The Best VPNs for Streaming in 2026 | Security.org",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn?offer=3monthsfree",
+     "title": "The best VPN service 2026 | TechRadar",
+     "date": null
+    },
+    {
+     "domain": "reviewsally.com",
+     "url": "https://reviewsally.com/vpn/",
+     "title": "Best VPN Services of 2026: 9 VPNs Tested | Reviews Ally",
+     "date": null
+    },
+    {
+     "domain": "rtings.com",
+     "url": "https://www.rtings.com/vpn/reviews/best/vpn",
+     "title": "The 5 Best VPNs of 2026 - RTINGS.com",
+     "date": null
+    },
+    {
+     "domain": "rottenwifi.com",
+     "url": "https://rottenwifi.com/best-vpn-for-streaming-in-2026/",
+     "title": "Best VPN for Streaming in 2026: NordVPN vs Surfshark and More",
+     "date": null
+    },
+    {
+     "domain": "nordvpn.com",
+     "url": "https://nordvpn.com/pricing/",
+     "title": "Buy a VPN with card, crypto, or PayPal: Monthly and yearly plans",
+     "date": null
+    },
+    {
+     "domain": "whatworks.tech",
+     "url": "https://whatworks.tech/vpn/streaming/best-vpn",
+     "title": "Best VPN for streaming (2026): scores for six main services",
+     "date": null
+    },
+    {
+     "domain": "av-test.org",
+     "url": "https://www.av-test.org/fileadmin/pdf/reports/AV-TEST_Kaspersky_VPN_Comparative_Test_Report_October_2025.pdf",
+     "title": "AV-TEST_Kaspersky_VPN_Comparative_Test_Report_October_2025",
+     "date": null
+    },
+    {
+     "domain": "ietf.org",
+     "url": "https://datatracker.ietf.org/meeting/interim-2025-ipgeows-01/materials/slides-interim-2025-ipgeows-01-sessa-day-1-clark-00.pdf",
+     "title": "GeoComply - IAB Workshop on IP Address Geolocation Dec25",
+     "date": null
+    },
+    {
+     "domain": "nordcdn.com",
+     "url": "https://sb.nordcdn.com/m/8d5f43e805d0c30/original/Comprehensive-VPN-Testing-Report-2025.pdf",
+     "title": "Comprehensive VPN Testing Report 2025",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=B558wTpAIqU",
+     "title": "Best VPN for Streaming 2026: NordVPN vs Surfshark vs Proton - YouTube",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1w802sv/whats_the_bestfastest_vpn_for_streaming_right_now/",
+     "title": "What's the best/fastest VPN for streaming right now?",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1y4oqxp/best_vpn_overall_proton_vpn_vs_nordvpn_vs/",
+     "title": "Best VPN overall? Proton VPN vs NordVPN vs Surfshark (free, streaming, Reddit, multiple devices)",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/u_pvenclik/comments/1u0yohx/i_tested_nordvpn_vs_surfshark_for_2_months_they/",
+     "title": "I tested NordVPN vs Surfshark for 2 months. They are owned by the same company but the experience is completely different. Here is everything.",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/RecommandedVPN/comments/1tsudq4/what_is_the_best_allround_vpn_in_2026_heres_what/",
+     "title": "What is the best all-round VPN in 2026? Here's what Reddit actually recommends",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=FBUsbOBQnHM",
+     "title": "Most VPN Tier Lists Are Fake — Here’s the Real 2026 Ranking - YouTube",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPN_Reviewer/comments/1rjksnd/best_vpn_for_streaming_right_now/",
+     "title": "Best VPN for streaming right now?",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPN_Question/comments/1wfr0w2/best_vpn_for_streaming_thats_fast/",
+     "title": "Best VPN for Streaming That's Fast?",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/vpnreviews/comments/1wez6ha/testing_expressvpn_and_nordvpn_speed_latency_and/",
+     "title": "Testing ExpressVPN and NordVPN, Speed, Latency and Routing in NA-East",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/nordvpn/comments/1vn5ruv/two_independent_labs_just_tested_nordvpn_fastest/",
+     "title": "Two independent labs just tested NordVPN — fastest VPN overall and AAA-certified antivirus. Full breakdown inside.",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPNReviewHub/comments/1vtf9ru/removed/",
+     "title": "[Removed]",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPNAdvice_/comments/1xhw39z/best_all_round_vpn_at_the_moment/",
+     "title": "best all round vpn at the moment?",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPNAdvice_/comments/1wez9a0/testing_nordvpn_vs_expressvpn_for_speed_latency/",
+     "title": "Testing NordVPN vs ExpressVPN for Speed, Latency and Routing",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/VPNAdvice_/comments/1usihaa/best_vpn_in_2026_i_compared_12_popular_vpns_so/",
+     "title": "Best VPN in 2026: I Compared 12 Popular VPNs So You Don't Have To",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/expressvpn-vs-surfshark",
+     "title": "ExpressVPN vs Surfshark: we've compared every aspect of each to establish which is the best choice for you",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/computing/vpns/how-to-pick-the-right-vpn-a-complete-guide",
+     "title": "How to pick the right VPN - a complete guide",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/reviews/nordvpn-review",
+     "title": "NordVPN review",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn-for-torrenting",
+     "title": "The best VPNs for torrenting and torrents: top recommendations based on expert-led testing",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/vpn-server-locations",
+     "title": "VPN server locations - which VPNs have the most and what you need to know",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/VPN_service",
+     "title": "VPN service",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Surfshark_VPN",
+     "title": "Surfshark VPN",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Private_Internet_Access",
+     "title": "Private Internet Access",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/NordVPN",
+     "title": "NordVPN",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Surfshark_B.V.",
+     "title": "Surfshark B.V.",
+     "date": null
+    },
+    {
+     "domain": "security.org",
+     "url": "https://www.security.org/vpn/best/streaming/?utm_source=openai",
+     "title": null,
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/best-vpn?utm_source=openai",
+     "title": null,
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/computing/vpns/expressvpn-vs-proton-vpn-which-is-better?utm_source=openai",
+     "title": null,
+     "date": null
+    }
+   ],
+   "retrieved_domains": [
+    "av-test.org",
+    "cyclingweekly.com",
+    "ietf.org",
+    "itechguides.com",
+    "loudersound.com",
+    "nordcdn.com",
+    "nordvpn.com",
+    "reddit.com",
+    "reviewsally.com",
+    "rottenwifi.com",
+    "rtings.com",
+    "security.org",
+    "techradar.com",
+    "tomsguide.com",
+    "top10vpn.com",
+    "whatworks.tech",
+    "wikipedia.org",
+    "youtube.com"
+   ],
+   "shown_domains": [
+    "security.org",
+    "tomsguide.com"
+   ],
+   "invisible_domains": [
+    "av-test.org",
+    "cyclingweekly.com",
+    "ietf.org",
+    "itechguides.com",
+    "loudersound.com",
+    "nordcdn.com",
+    "nordvpn.com",
+    "reddit.com",
+    "reviewsally.com",
+    "rottenwifi.com",
+    "rtings.com",
+    "techradar.com",
+    "top10vpn.com",
+    "whatworks.tech",
+    "wikipedia.org",
+    "youtube.com"
+   ],
+   "n_retrieved": 18,
+   "n_shown": 2,
+   "n_invisible": 16,
+   "invisible_pct": 89,
+   "cost": 0.0396,
+   "datetime": "2026-11-26 07:14:37 +00:00"
+  },
+  {
+   "slug": "p07",
+   "topic": "decision",
+   "location": "United Kingdom",
+   "prompt": "best VPN for privacy in the UK",
+   "fan_out": [
+    "site.mullvad.net pricing audit no logging 2025 2026",
+    "site.protonvpn.com UK Online Safety Act no logs audit 2026 pricing",
+    "site.ivpn.net audit pricing no logs UK"
+   ],
+   "n_fan_out": 3,
+   "retrieved_pool": [
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn",
+     "title": "The best VPN service 2026",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/best-free-vpn",
+     "title": "The best free VPN in 2026",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/cheapest-vpn",
+     "title": "The best cheap VPN services in 2026 - stay secure without sacrificing quality with our expert picks",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-plus-vs-surfshark-one",
+     "title": "Proton VPN Plus vs Surfshark One: which plan is the better Black Friday deal right now?",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/computing/vpns/expressvpn-vs-proton-vpn-which-is-better",
+     "title": "ExpressVPN vs Proton VPN: which is better?",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/vpn-black-friday-deals",
+     "title": "Black Friday VPN deals 2026: tons of big discounts are already live",
+     "date": null
+    },
+    {
+     "domain": "protonvpn.com",
+     "url": "https://protonvpn.com/support/no-logs-vpn",
+     "title": "Does Proton VPN keep logs? | Proton VPN",
+     "date": null
+    },
+    {
+     "domain": "protonvpn.com",
+     "url": "https://protonvpn.com/features/no-logs-policy",
+     "title": "Our strict no-logs policy ensures your privacy | Proton VPN",
+     "date": null
+    },
+    {
+     "domain": "independent.co.uk",
+     "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/best-vpn-b2912864.html",
+     "title": "Best VPNs in the UK November 2026, reviewed by a tech editor | The Independent",
+     "date": null
+    },
+    {
+     "domain": "mullvad.net",
+     "url": "https://mullvad.net/en/help/no-logging-data-policy?xcust=syn-dt-digital-trends-3732227&xs=1",
+     "title": "No-logging of user activity policy",
+     "date": null
+    },
+    {
+     "domain": "vpnscout.io",
+     "url": "https://www.vpnscout.io/blog/best-no-logs-vpns-audited",
+     "title": "No-Logs VPNs With an Independent Audit",
+     "date": null
+    },
+    {
+     "domain": "protonvpn.com",
+     "url": "https://protonvpn.com/privacy-policy",
+     "title": "Proton VPN - Privacy Policy | Proton VPN",
+     "date": null
+    },
+    {
+     "domain": "plainpick.com",
+     "url": "https://plainpick.com/vpn/no-log-vpn/",
+     "title": "No-log VPNs compared: which providers actually get audited | PlainPick",
+     "date": null
+    },
+    {
+     "domain": "github.com",
+     "url": "https://github.com/ivpn/ivpn.net/blob/main/src/content/en/blog/annual-security-audit-scheduled-2026.md",
+     "title": "ivpn.net/src/content/en/blog/annual-security-audit-scheduled-2026.md at main · ivpn/ivpn.net · GitHub",
+     "date": null
+    },
+    {
+     "domain": "shieldpick.uk",
+     "url": "https://shieldpick.uk/guides/what-is-a-no-logs-vpn-uk/",
+     "title": "What Is a No-Logs VPN? A UK Guide for 2026 | ShieldPick",
+     "date": null
+    },
+    {
+     "domain": "examineip.com",
+     "url": "https://examineip.com/vpn-audit-tracker/",
+     "title": "VPN Audit Tracker: Who Checked Which VPN, and When",
+     "date": null
+    },
+    {
+     "domain": "torwatch.io",
+     "url": "https://torwatch.io/privacy-tools/vpn",
+     "title": "Best VPN for privacy: warrants, audits, no pitch | TorWatch",
+     "date": null
+    },
+    {
+     "domain": "protonvpn.com",
+     "url": "https://protonvpn.com/blog/no-logs-audit",
+     "title": "Proton VPN passes 5th annual external audit of no-logs policy | Proton VPN",
+     "date": null
+    },
+    {
+     "domain": "ofcom.org.uk",
+     "url": "https://www.ofcom.org.uk/siteassets/resources/documents/enforcement/2026/confirmation-decision-investigation-into-an-online-suicide-discussion-forum.pdf?v=418261",
+     "title": "Confirmation Decision: Investigation into the failure to comply with illegal content risk assessment duty, illegal content safety duties, and content reporting and complaints duties",
+     "date": null
+    },
+    {
+     "domain": "squarespace.com",
+     "url": "https://static1.squarespace.com/static/5fb56f8ee8bd9e3c8107d45a/t/5ff4f1d8c650f4525096cf4f/1720562084324/VPN%2BGuide_%2BWhat%2Bis%2Ba%2BVPN_%2BHow%2Bdo%2BI%2BChoose%2Ba%2BVPN_%2B%255B2020%2Bupdate%255D%2B%25281%2529.pdf",
+     "title": "# How Should I Choose a VPN?",
+     "date": null
+    },
+    {
+     "domain": "securitum.com",
+     "url": "https://securitum.com/public-reports/securitum-protonvpn-nologs-2025.pdf",
+     "title": "This section presents a comprehensive analysis of the key inquiries that guided this security assessment. The findings are the result of a direct, on-site inspection of Proton VPN's production infrastructure, where Proton's senior engineering staff demonstrated system configurations and processes to Securitum's auditors.",
+     "date": null
+    },
+    {
+     "domain": "ofcom.org.uk",
+     "url": "https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2026/january/vpn-usage-monitoring-services.pdf?v=410841",
+     "title": "VPN usage monitoring services",
+     "date": null
+    },
+    {
+     "domain": "mplp.org",
+     "url": "https://mplp.org/sites/default/files/2025-10/mplp-fifth-friday-tech-webinar-10-31-25_0.pdf",
+     "title": "MPLP Fifth Friday Tech Webinar -",
+     "date": null
+    },
+    {
+     "domain": "cure53.de",
+     "url": "https://cure53.de/audit-report_ivpn.pdf",
+     "title": "Cure53  \nFine penetration tests for fine websites",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/IVPN",
+     "title": "IVPN",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Mullvad",
+     "title": "Mullvad",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/reviews/surfshark-vpn-review",
+     "title": "Surfshark VPN Review",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/reviews/protonvpn-review",
+     "title": "Proton VPN review - Powerful, private, and increasingly accessible",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/vpn-services/ipvanish-clears-a-third-independent-audit-reinforcing-its-no-logs-credentials-for-the-second-year-in-a-row",
+     "title": "IPVanish clears a third independent audit, reinforcing its no-logs credentials for the second year in a row",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/vpn-services/in-conclusion-the-reviewed-scope-appears-to-be-on-a-good-security-level-compared-to-systems-of-similar-size-and-complexity-independent-review-confirms-mullvads-strong-privacy-protections",
+     "title": "\"In conclusion, the reviewed scope appears to be on a good security level compared to systems of similar size and complexity.\"  - Independent review confirms Mullvad's strong privacy protections",
+     "date": null
+    },
+    {
+     "domain": "pcgamer.com",
+     "url": "https://www.pcgamer.com/best-vpn-for-pc-gaming/",
+     "title": "The best VPN for gaming in 2026: These privacy-protecting virtual networks keep your games lag-free",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=KzkQKB9msUI",
+     "title": "Breaking the Silence on Logs, Audits, & Affiliate Scams (IVPN Interview) - YouTube",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/IPVanish",
+     "title": "IPVanish",
+     "date": null
+    },
+    {
+     "domain": "wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/Proton_AG",
+     "title": "Proton AG",
+     "date": null
+    }
+   ],
+   "retrieved_domains": [
+    "cure53.de",
+    "examineip.com",
+    "github.com",
+    "independent.co.uk",
+    "mplp.org",
+    "mullvad.net",
+    "ofcom.org.uk",
+    "pcgamer.com",
+    "plainpick.com",
+    "protonvpn.com",
+    "securitum.com",
+    "shieldpick.uk",
+    "squarespace.com",
+    "techradar.com",
+    "tomsguide.com",
+    "torwatch.io",
+    "vpnscout.io",
+    "wikipedia.org",
+    "youtube.com"
+   ],
+   "shown_domains": [
+    "mullvad.net",
+    "protonvpn.com"
+   ],
+   "invisible_domains": [
+    "cure53.de",
+    "examineip.com",
+    "github.com",
+    "independent.co.uk",
+    "mplp.org",
+    "ofcom.org.uk",
+    "pcgamer.com",
+    "plainpick.com",
+    "securitum.com",
+    "shieldpick.uk",
+    "squarespace.com",
+    "techradar.com",
+    "tomsguide.com",
+    "torwatch.io",
+    "vpnscout.io",
+    "wikipedia.org",
+    "youtube.com"
+   ],
+   "n_retrieved": 19,
+   "n_shown": 2,
+   "n_invisible": 17,
+   "invisible_pct": 89,
+   "cost": 0.050412,
+   "datetime": "2026-11-26 07:14:48 +00:00"
+  },
+  {
+   "slug": "p08",
+   "topic": "comparison",
+   "location": "",
+   "prompt": "NordVPN vs Surfshark which is better",
+   "fan_out": [
+    "site.nordvpn.com pricing NordVPN 10 devices NordLynx",
+    "site.surfshark.com pricing unlimited devices WireGuard VPN"
+   ],
+   "n_fan_out": 2,
+   "retrieved_pool": [
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn",
+     "title": "The best VPN service 2026",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/cheap-vpn",
+     "title": "The best cheap VPN in 2026",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/apple-tv-vpn",
+     "title": "The best VPNs for Apple TV: stream Ted Lasso and Slow Horses securely with these top VPNs",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/vpn-black-friday-deals",
+     "title": "Black Friday VPN deals 2026: tons of big discounts are already live",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-plus-vs-surfshark-one",
+     "title": "Proton VPN Plus vs Surfshark One: which plan is the better Black Friday deal right now?",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/computing/vpns/expressvpn-vs-proton-vpn-which-is-better",
+     "title": "ExpressVPN vs Proton VPN: which is better?",
+     "date": null
+    },
+    {
+     "domain": "nordvpn.com",
+     "url": "https://nordvpn.com/pricing/",
+     "title": "Buy a VPN with card, crypto, or PayPal: Monthly and yearly plans",
+     "date": null
+    },
+    {
+     "domain": "nordvpn.com",
+     "url": "https://support.nordvpn.com/hc/en-us/articles/19476515228305-How-many-devices-can-I-use-with-NordVPN",
+     "title": "How many devices can I use with NordVPN? – Live Chat, VPN Setup, Troubleshooting | NordVPN Customer Support",
+     "date": null
+    },
+    {
+     "domain": "surfshark.com",
+     "url": "https://surfshark.com/pricing",
+     "title": "How much does Surfshark cost? Check the pricing - Surfshark",
+     "date": null
+    },
+    {
+     "domain": "nordvpn.com",
+     "url": "https://support.nordvpn.com/hc/en-us/articles/19559429814545-What-features-does-NordVPN-have",
+     "title": "What features does NordVPN have? – Live Chat, VPN Setup, Troubleshooting | NordVPN Customer Support",
+     "date": null
+    },
+    {
+     "domain": "surfshark.com",
+     "url": "https://surfshark.com/comparison",
+     "title": "VPN comparison: a closer look at top VPN providers - Surfshark",
+     "date": null
+    },
+    {
+     "domain": "surfshark.com",
+     "url": "https://support.surfshark.com/hc/en-us/articles/360003069434-How-many-devices-can-I-use-with-Surfshark-simultaneously",
+     "title": "How many devices can I use with Surfshark simultaneously? – Surfshark Customer Support",
+     "date": null
+    },
+    {
+     "domain": "nordvpn.com",
+     "url": "https://nordvpn.com/blog/cheap-vpn/",
+     "title": "How to choose the best cheap VPN in 2026 | NordVPN",
+     "date": null
+    },
+    {
+     "domain": "nordvpn.com",
+     "url": "https://nordvpn.com/pricing/?ff%5Bft%5D=on",
+     "title": "Buy a VPN with card, crypto, or PayPal: Monthly and yearly plans",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/reviews/nordvpn",
+     "title": "NordVPN review - what our experts say in 2026 | TechRadar",
+     "date": null
+    },
+    {
+     "domain": "vpnalert.com",
+     "url": "https://vpnalert.com/guides/what-is-surfshark/",
+     "title": "What Is Surfshark? How It Works & What It Costs (2026)",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/reviews/nordvpn-review",
+     "title": "NordVPN review | Tom's Guide",
+     "date": null
+    },
+    {
+     "domain": "nordvpn.com",
+     "url": "https://nordvpn.com/pricing/?msockid=299233489354693434a52593924e682f",
+     "title": "Buy a VPN with card, crypto, or PayPal: Monthly and yearly plans",
+     "date": null
+    },
+    {
+     "domain": "surfshark.com",
+     "url": "https://surfshark.com/media/Surfshark_Annual_Wrap-up_2025.pdf",
+     "title": "GLOBAL RECOGNITION",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=eo_pqNP9Stg",
+     "title": "Surfshark Promo Code (Unlimited Devices — From $2.49/mo) - YouTube",
+     "date": null
+    },
+    {
+     "domain": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=UKq2QawpDQA",
+     "title": "NordVPN Review: $3.49/mo Deal Explained + What They Don't Tell You - YouTube",
+     "date": null
+    },
+    {
+     "domain": "alm.com",
+     "url": "https://assets.alm.com/b8/c6/ce358cf846f79c2155d6c1cf9a99/pm-61120924-complaint.pdf",
+     "title": "Case 1:25-cv-13374",
+     "date": null
+    },
+    {
+     "domain": "toolgpa.com",
+     "url": "https://toolgpa.com/categories/vpn/guide.pdf",
+     "title": "VPNs: The Insider's Guide | ToolGPA",
+     "date": null
+    },
+    {
+     "domain": "surfshark.com",
+     "url": "https://surfshark.com/media/Surfshark_Impact_Report_2024.pdf",
+     "title": "SURFSHARK VPN FEATURES",
+     "date": null
+    },
+    {
+     "domain": "av-comparatives.org",
+     "url": "https://www.av-comparatives.org/wp-content/uploads/2020/05/avc_vpn_2020.pdf",
+     "title": "VPN Report 2020",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/surfshark/comments/1vyvh4t/is_surfshark_a_good_vpn/",
+     "title": "Is Surfshark a good VPN?",
+     "date": null
+    },
+    {
+     "domain": "venable.com",
+     "url": "https://www.venable.com/-/media/files/events/2025/05/autorenewal-update-tariffs-ftcs-negative-option-ru.pdf",
+     "title": "The Privacy Puzzle",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/vpnreviews/comments/1ffuxyh/nordvpn_review_an_indepth_analysis_from_a/",
+     "title": "NordVPN Review: An In-Depth Analysis From a Long-Time User",
+     "date": null
+    },
+    {
+     "domain": "reddit.com",
+     "url": "https://www.reddit.com/r/surfshark/comments/1ob5vst",
+     "title": "How many devices can I use Surfshark on at once?",
+     "date": null
+    },
+    {
+     "domain": "tomsguide.com",
+     "url": "https://www.tomsguide.com/best-picks/vpn-server-locations",
+     "title": "VPN server locations - which VPNs have the most and what you need to know",
+     "date": null
+    },
+    {
+     "domain": "techradar.com",
+     "url": "https://www.techradar.com/vpn/best-vpn?utm_source=openai",
+     "title": null,
+     "date": null
+    },
+    {
+     "domain": "surfshark.com",
+     "url": "https://support.surfshark.com/hc/en-us/articles/360003069434-How-many-devices-can-I-use-with-Surfshark-simultaneously?utm_source=openai",
+     "title": null,
+     "date": null
+    },
+    {
+     "domain": "nordvpn.com",
+     "url": "https://nordvpn.com/pricing/?utm_source=openai",
+     "title": null,
+     "date": null
+    }
+   ],
+   "retrieved_domains": [
+    "alm.com",
+    "av-comparatives.org",
+    "nordvpn.com",
+    "reddit.com",
+    "surfshark.com",
+    "techradar.com",
+    "tomsguide.com",
+    "toolgpa.com",
+    "venable.com",
+    "vpnalert.com",
+    "youtube.com"
+   ],
+   "shown_domains": [
+    "nordvpn.com",
+    "surfshark.com",
+    "techradar.com"
+   ],
+   "invisible_domains": [
+    "alm.com",
+    "av-comparatives.org",
+    "reddit.com",
+    "tomsguide.com",
+    "toolgpa.com",
+    "venable.com",
+    "vpnalert.com",
+    "youtube.com"
+   ],
+   "n_retrieved": 11,
+   "n_shown": 3,
+   "n_invisible": 8,
+   "invisible_pct": 73,
+   "cost": 0.031818,
+   "datetime": "2026-11-26 07:14:44 +00:00"
+  }
+ ]
+}

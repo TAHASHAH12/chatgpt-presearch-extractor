@@ -1,0 +1,563 @@
+{
+ "n_prompts": 8,
+ "fan_out": {
+  "total": 18,
+  "avg_per_prompt": 2.2
+ },
+ "retrieved": {
+  "total": 128,
+  "avg_per_prompt": 16.0,
+  "unique_domains": 80
+ },
+ "shown": {
+  "total": 18,
+  "avg_per_prompt": 2.2,
+  "unique_domains": 16
+ },
+ "invisible_layer": {
+  "unique_domains_never_shown": 64,
+  "pct_of_unique_retrieved": 80,
+  "avg_invisible_pct_per_prompt": 74
+ },
+ "per_domain": [
+  {
+   "domain": "techradar.com",
+   "retrieved": 7,
+   "shown": 1,
+   "shown_rate": 14
+  },
+  {
+   "domain": "tomsguide.com",
+   "retrieved": 7,
+   "shown": 1,
+   "shown_rate": 14
+  },
+  {
+   "domain": "youtube.com",
+   "retrieved": 6,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "wikipedia.org",
+   "retrieved": 5,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "rtings.com",
+   "retrieved": 4,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "army.mil",
+   "retrieved": 3,
+   "shown": 1,
+   "shown_rate": 33
+  },
+  {
+   "domain": "fbi.gov",
+   "retrieved": 3,
+   "shown": 1,
+   "shown_rate": 33
+  },
+  {
+   "domain": "reddit.com",
+   "retrieved": 3,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "top10vpn.com",
+   "retrieved": 3,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "av-comparatives.org",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "av-test.org",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "consumerreports.org",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "eff.org",
+   "retrieved": 2,
+   "shown": 2,
+   "shown_rate": 100
+  },
+  {
+   "domain": "ftc.gov",
+   "retrieved": 2,
+   "shown": 2,
+   "shown_rate": 100
+  },
+  {
+   "domain": "itechguides.com",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "microsoft.com",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "mplp.org",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "mullvad.net",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "nordcdn.com",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "nordvpn.com",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "norton.com",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "odni.gov",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "pcgamer.com",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "security.org",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "wisdoj.gov",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "alm.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "auditedvpn.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "bitdefender.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "brave.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "cisco.com",
+   "retrieved": 1,
+   "shown": 1,
+   "shown_rate": 100
+  },
+  {
+   "domain": "cloudflare.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "com.de",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "cure53.de",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "cyclingweekly.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "defense.gov",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "engadget.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "ethereum.org",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "examineip.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "faa.gov",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "ftc.net",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "gc.ca",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "github.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "gizmodo.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "gov.sg",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "govinfo.gov",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "hhs.gov",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "ietf.org",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "independent.co.uk",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "internetsociety.org",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "justice.gov",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "kaspersky.com",
+   "retrieved": 1,
+   "shown": 1,
+   "shown_rate": 100
+  },
+  {
+   "domain": "loudersound.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "michigan.gov",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "nist.gov",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "ofcom.org.uk",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "ohchr.org",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "pickmyvpn.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "plainpick.com",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "privacyinternational.org",
+   "retrieved": 1,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "protonvpn.com",
+   "retrieved": 1,
+   "shown": 1,
+   "shown_rate": 100
+  }
+ ],
+ "invisible_influencers": [
+  {
+   "domain": "youtube.com",
+   "retrieved": 6,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "wikipedia.org",
+   "retrieved": 5,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "rtings.com",
+   "retrieved": 4,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "reddit.com",
+   "retrieved": 3,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "top10vpn.com",
+   "retrieved": 3,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "av-comparatives.org",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "av-test.org",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "itechguides.com",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "mplp.org",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "nordcdn.com",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "norton.com",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "odni.gov",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "pcgamer.com",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  },
+  {
+   "domain": "wisdoj.gov",
+   "retrieved": 2,
+   "shown": 0,
+   "shown_rate": 0
+  }
+ ],
+ "top_shown": [
+  {
+   "domain": "eff.org",
+   "retrieved": 2,
+   "shown": 2,
+   "shown_rate": 100
+  },
+  {
+   "domain": "ftc.gov",
+   "retrieved": 2,
+   "shown": 2,
+   "shown_rate": 100
+  },
+  {
+   "domain": "techradar.com",
+   "retrieved": 7,
+   "shown": 1,
+   "shown_rate": 14
+  },
+  {
+   "domain": "tomsguide.com",
+   "retrieved": 7,
+   "shown": 1,
+   "shown_rate": 14
+  },
+  {
+   "domain": "army.mil",
+   "retrieved": 3,
+   "shown": 1,
+   "shown_rate": 33
+  },
+  {
+   "domain": "fbi.gov",
+   "retrieved": 3,
+   "shown": 1,
+   "shown_rate": 33
+  },
+  {
+   "domain": "consumerreports.org",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "microsoft.com",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "mullvad.net",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "nordvpn.com",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "security.org",
+   "retrieved": 2,
+   "shown": 1,
+   "shown_rate": 50
+  },
+  {
+   "domain": "cisco.com",
+   "retrieved": 1,
+   "shown": 1,
+   "shown_rate": 100
+  },
+  {
+   "domain": "kaspersky.com",
+   "retrieved": 1,
+   "shown": 1,
+   "shown_rate": 100
+  },
+  {
+   "domain": "protonvpn.com",
+   "retrieved": 1,
+   "shown": 1,
+   "shown_rate": 100
+  },
+  {
+   "domain": "surfshark.com",
+   "retrieved": 1,
+   "shown": 1,
+   "shown_rate": 100
+  }
+ ],
+ "spend": 0.29
+}

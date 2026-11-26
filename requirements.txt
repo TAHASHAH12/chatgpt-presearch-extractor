@@ -1,0 +1,2 @@
+# Standard library + the system `curl` binary only. No pip packages required.
+# Python 3.9+.

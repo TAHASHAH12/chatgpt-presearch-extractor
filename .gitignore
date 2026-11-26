@@ -1,0 +1,7 @@
+.env
+*.key
+raw/
+pipeline/raw/
+pipeline/config.json
+__pycache__/
+.DS_Store
